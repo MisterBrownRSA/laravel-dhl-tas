@@ -13,7 +13,6 @@
             "MisterBrownRSA\\DHL\\TAS\\": "src/"
         }
     },
-    "minimum-stability": "dev",
     "require": {
         "php": ">=7.0"
     }
