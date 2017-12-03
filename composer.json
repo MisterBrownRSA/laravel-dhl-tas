@@ -1,0 +1,20 @@
+{
+    "name": "misterbrownrsa/laravel-dhl-tas",
+    "description": "A basic API to easily generate the necessary requests for Trade Automation Service for Laravel",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Duwayne Brown",
+            "email": "duwayne@hashtec.co.za"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "MisterBrownRSA\\DHL\\TAS\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=7.0"
+    }
+}
