@@ -2,8 +2,6 @@
 
     namespace MisterBrownRSA\DHL\TAS;
 
-    use DOMDocument;
-
     class DHLTAS
     {
         private $username;
